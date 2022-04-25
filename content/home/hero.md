@@ -24,7 +24,7 @@ design:
     gradient_end: rgb(153,238,255)
     text_color_light: false
     image_darken: 0.1
-    image: learn-hack-logo.png
+    image: ""
 hero_media: student.svg
 ---
 Wir möchten dir gerne unsere Tipps rund um Lerntechniken und -strategien, Zeitmanagement und Motivation im Studium sowie in der Schule weitergeben.
