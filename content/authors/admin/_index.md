@@ -1,6 +1,7 @@
 ---
 title: Bijan Khosrawi-Rad
-role: Python Instructor
+role: Doktorand & Lern-Coach
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
