@@ -23,7 +23,7 @@ design:
     gradient_start: rgb(224,223,255)
     gradient_end: rgb(153,238,255)
     text_color_light: false
-    image_darken: 0.3
+    image_darken: 0
     image: ""
 hero_media: student.svg
 ---
