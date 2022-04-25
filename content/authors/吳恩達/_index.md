@@ -26,10 +26,10 @@ social:
 education:
   courses:
     - course: BSc in Wirtschaftsinformatik
-      institution: TU Braunschweig
+      institution: Technische Universität Braunschweig
       year: 2021
     - course: BSc in Wirtschaftsinformatik
-      institution: TU Braunschweig
+      institution: Technische Universität Braunschweig
       year: 2019
 email: ""
 user_groups:
